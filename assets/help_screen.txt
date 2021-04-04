@@ -1,0 +1,17 @@
+O jogo consiste em dois jogadores
+que alternam turnos e jogam seus
+respectivos simbolos x/o tentando
+formar retas no tabuleiro, sendo
+qualquer reta de tamanho 4 simbolos
+iguais uma vitoria ao jogador
+ao qual aquele simbolo pertence,
+podendo formar ate mesmo diagonais!
+
+Se nenhum nao houver movimento
+valido o jogo acaba em empate,
+mais conhecido como velha
+
+Durante o decorrer do jogo e possivel
+rotacionar o tabuleiro por meio das
+setinhas na tela ou no teclado, alem
+das teclas A e D
