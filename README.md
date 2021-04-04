@@ -1,1 +1,2 @@
-# qubric
+# QUBRIC
+
