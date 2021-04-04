@@ -38,10 +38,9 @@ E para rodar os testes é também necessário instalar a pytest
 
 ## Desenvolvedores
 
-- Antonio Marcos Shiro Arnauts Hachisuca,   NUSP: 11796041
-- Luã Nowacki Scavacini Santilli,           NUSP: 11795492
-- Maximilian Cabrajac Goritz,               NUSP: 11795418
-
+- Antonio Marcos Shiro Arnauts Hachisuca,  https://gitlab.com/antoniomsah
+- Luã Nowacki Scavacini Santilli,          https://github.com/luatil/
+- Maximilian Cabrajac Goritz,              https://gitlab.com/MaxCG
 
 ## Créditos
 
